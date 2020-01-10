@@ -19,7 +19,7 @@ $(document).ready(function() {
   });
 
   video4.onended = function(e) {
-      window.location.href = "../index.html";
+      window.location.href = "../guide.html";
 
   }
 
