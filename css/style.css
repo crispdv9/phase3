@@ -23,7 +23,6 @@ p{
 }
 p a{
   color: red;
-  text-decoration: none;
 
 }
 
@@ -236,6 +235,9 @@ width: 100%;
   padding-bottom: 10%;
   font-size: 18px;
   font-weight: 300;
+
+}
+.about  a:link{
 
 }
 .about h1{
